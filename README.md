@@ -16,7 +16,7 @@ Key Steps to accomplishing the project.
 
 2.) Posing at least three quesrtion relating to the collected Data
 
-3) Performing necessary cleaning, analysis, and modeling.
+3.) Performing necessary cleaning, analysis, and modeling.
 
 
  
